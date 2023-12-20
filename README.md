@@ -1,6 +1,6 @@
 # My Portfolio
 
-**Welcome to my portfolio repository!** This repository serves as a showcase of my projects, skills, and experiences in [your field/industry]. Here, you'll find a collection of my work and a glimpse into my technical expertise.
+**Welcome to my portfolio repository!** This repository serves as a showcase of my projects, skills, and experiences in B.Tech in Information Technology. Here, you'll find a collection of my work and a glimpse into my technical expertise.
 
 ## Features
 
@@ -17,12 +17,12 @@ This portfolio offers a **customizable dark and light theme** for a comfortable 
 Feel free to **reach out to discuss collaborations**, opportunities, or simply to connect. You can contact me via **email** or through my **LinkedIn profile**.
 
 ## Usage
-- **Clone the repository:** `git clone [repository URL]`
+- **Clone the repository:** 
 - **Explore the projects** and **skills** showcased in the repository.
 - **Switch between dark and light themes** (if applicable) for your preferred viewing experience.
 
 ## Contact
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [surabhi.252002@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/surabhi-nigam-057011217]
 
 Thank you for visiting my portfolio!
